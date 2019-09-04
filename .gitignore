@@ -1,0 +1,7 @@
+~*
+.env
+config.yml
+node_modules
+
+## Assets folder is only included in repo as an example.
+# assets
